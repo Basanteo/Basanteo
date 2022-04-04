@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Basanteo
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently javascript ...
-- 💞️ I’m looking to collaborate on projects...
+- 🌱 I’m currently javascript,css and html
+- 💞️ I’m looking to collaborate on fullstack projects...
 - 📫 you can reach me on bright.asante-opoku@amalitech.org
 
 <!---
